@@ -1,5 +1,3 @@
-# cypress-cucumber
-
 # Objective
 
 Test automation with Cypress and Cucumber.
@@ -11,9 +9,9 @@ The test proposal is to validate some scenarios on the website: http://automatio
 * ***Integration***: features
 * ***Pluggins***: to run Cucumber
 * ***Support***:
-** ***Elements***: pages elements
-** ***Pages***: pages actions
-** ***Steps***: test steps
+	* ***Elements***: pages elements
+	* ***Pages***: pages actions
+	* ***Steps***: test steps
  
 ## Technology
 
